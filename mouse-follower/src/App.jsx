@@ -1,10 +1,12 @@
-import { useState } from 'react'
+import {useEffect} from 'react'
 import './App.css'
 
 function App() {
+  useEffect(() =>{
 
+  })
   return (
-    <h3>Poyecto</h3>
+    <h3>Proyecto</h3>
   )
 }
 
